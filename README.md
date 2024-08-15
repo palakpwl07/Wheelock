@@ -8,7 +8,7 @@ WheeLock is an innovative solution aimed at addressing the increasing need for s
 
 ## My Contribution and Takeaways
 
-I played a pivotal role in both the business development and the design of the final product. My contributions included developing a robust business plan for a B2B model, targeting public transportation operators and commercial property developers. Through this project, I was able to significantly improve my problem-solving skills and apply my engineering knowledge to devise scalable solutions—skills that I remain passionately committed to honing.
+I played a pivotal role in both the business development and the final product's design. My contributions included developing a robust business plan for a B2B model, targeting public transportation operators and commercial property developers. Through this project, I significantly improved my problem-solving skills and applied my engineering knowledge to devise scalable solutions—skills that I remain passionately committed to honing.
 
 Additionally, I thoroughly enjoyed the business development aspect of the project, as it provided me with a deep understanding of how technology can be scaled for widespread utility and the nuances of pitching products effectively. These experiences have been invaluable in shaping my approach to integrating engineering with business strategy.
 
@@ -46,7 +46,7 @@ WheeLock addresses a critical need in urban infrastructure, providing a secure a
 
 ## Final Product
 
-![WheeLock Final Product](URL_TO_IMAGE)
+![WheeLock Final Product](https://github.com/palakpwl07/Wheelock/blob/main/wheelockimage.png)
 
 ---
 
